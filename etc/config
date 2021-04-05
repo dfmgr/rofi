@@ -1,1 +1,3 @@
-rofi.theme: ~/.config/rofi/themes/purple.rasi
+configuration {
+	theme: "~/.config/rofi/themes/purple.rasi";
+}
