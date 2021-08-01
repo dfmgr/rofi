@@ -5,7 +5,7 @@ Rofi is a window switcher, run dialog, ssh-launcher and dmenu replacement
 Automatic install/update:
 
 ```shell
-bash -c "$(curl -LSs https://github.com/dfmgr/rofi/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/dfmgr/rofi/raw/main/install.sh)"
 ```
 
 Manual install:
